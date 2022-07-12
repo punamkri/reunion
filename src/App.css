@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,27 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.flex-icon{
+  justify-content: space-between;
+}
+.iconn{
+  display: flex;
+  justify-content: space-around;
+}
+.card-text-line{
+  font-weight: 800;
+}
+.card-title{
+  color: purple;
+  font-weight: 800;
+}
+.card{
+  border-top-left-radius: 50px;
+}
+.login-btn-css {
+  background-color: blueviolet;
+  color: black;
+  font-weight: 500;
+
 }

@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(241, 232, 232);
+}
+.down {
+    margin-left: 32px;
+    /* border-radius: 50%; */
+    border: 2px solid gray;
+    border-radius: 50%;
+}
+.navbar{
+    border-bottom: 2px solid black;
+}
+nav i {
+    color: blueviolet;
+}
+.navbar-nav {
+    font-weight: 800;
+    color: black;
+}
+.btu{
+    font-weight: 800;
+    background-color:rgb(197, 174, 197);
+    border: none;
+
+}
+.nevu{
+    color: blueviolet;
+
+}
+.colorline{
+    background-color: blueviolet;
+    color: black;
+}
+.msg{
+    font-weight: 800;
+}

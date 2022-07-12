@@ -1,0 +1,43 @@
+.clr{
+    background-color: white;
+}
+.right{
+    border-right: 2px solid black;
+}
+.right{
+    font-weight: 700;
+    font-size: 17px;
+}
+.login-btn-css{
+    /* margin-left: 220px !important; */
+  }
+@media screen and (max-width: 576px){
+    .right{
+        border-right: none;
+        text-align: center;
+    }
+    .right{
+        border-bottom: 2px solid black;
+        font-weight: 800;
+        font-size: 20px;
+        text-align: center;
+    }
+    .login-btn-css{
+        margin-left: 220px !important;
+      }
+    
+}
+@media screen and (max-width: 761px){
+    .right{
+        border-right: none;
+    }
+    .right{
+        border-bottom: 2px solid black;
+        font-weight: 800;
+        font-size: 20px;
+        text-align: center;
+    }
+    .login-btn-css{
+        margin-left: 220px !important;
+      }
+}
