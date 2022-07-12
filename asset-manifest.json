@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reunion/static/css/main.8349ecd5.css",
+    "main.js": "/reunion/static/js/main.c74dba44.js",
+    "static/js/787.60ff7daf.chunk.js": "/reunion/static/js/787.60ff7daf.chunk.js",
+    "static/media/pic1.jpg": "/reunion/static/media/pic1.53fa504aa6e17f0b70f8.jpg",
+    "static/media/pic8.jpg": "/reunion/static/media/pic8.e1a33393d83fec88ba66.jpg",
+    "static/media/pic6.jpg": "/reunion/static/media/pic6.637f8caa53fd17e3ed6a.jpg",
+    "static/media/pic7.jpg": "/reunion/static/media/pic7.08debe0952b94a8dd6a1.jpg",
+    "static/media/pic2.jpg": "/reunion/static/media/pic2.ce28ee337c9e13339623.jpg",
+    "static/media/pic4.jpg": "/reunion/static/media/pic4.63f0dc459dfc4012858f.jpg",
+    "static/media/pic3.jpg": "/reunion/static/media/pic3.fb6e006bf9d8d2a17191.jpg",
+    "static/media/pic5.jpg": "/reunion/static/media/pic5.ace2cd1141b83bce05f1.jpg",
+    "index.html": "/reunion/index.html",
+    "main.8349ecd5.css.map": "/reunion/static/css/main.8349ecd5.css.map",
+    "main.c74dba44.js.map": "/reunion/static/js/main.c74dba44.js.map",
+    "787.60ff7daf.chunk.js.map": "/reunion/static/js/787.60ff7daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8349ecd5.css",
+    "static/js/main.c74dba44.js"
+  ]
+}
